@@ -12,7 +12,7 @@ Clone into directory
 
 In terminal:
 
-cd blockchain-ruby
-irb -r './blockchain.rb'
+* cd blockchain-ruby
+* irb -r './blockchain.rb'
 
 #### JavaScript
